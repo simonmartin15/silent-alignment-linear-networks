@@ -1,0 +1,11 @@
+# Python >= 3.10. Tested with Python 3.11, PyTorch 2.1, NumPy 1.24 to 2.4,
+# SciPy 1.11 to 1.17 and Matplotlib 3.7 to 3.11.
+# PyTorch is needed by the simulator (src/simulator.py, src/exact_flow.py, the
+# figure and validation scripts, and make_gifs.ipynb with SIMULATE = True);
+# src/theory.py, figures.ipynb and validation.ipynb do not use it.
+# Figure text uses LaTeX (text.usetex), so a LaTeX installation is required.
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+torch>=2.0
+jupyter

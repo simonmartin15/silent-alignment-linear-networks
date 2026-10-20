@@ -1,0 +1,8 @@
+# Simulation archives: too large for the repository (archived on Zenodo, see README).
+data/
+data_quick/
+# Caches and temporary files.
+animations/gifs/previews/
+__pycache__/
+.ipynb_checkpoints/
+*.partial.npz
