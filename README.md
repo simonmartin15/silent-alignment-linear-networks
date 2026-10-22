@@ -4,7 +4,7 @@ Code for the paper
 
 > **Silent Alignment in Two-Layer Linear Networks: A High-Dimensional Perspective**
 > Simon Martin, Francis Bach, Giulio Biroli
-> [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+> [arXiv:2610.29864](https://arxiv.org/abs/2610.29864)
 
 We study gradient flow in a two-layer linear network $Z = UV^\top$, in the high-dimensional regime where the input, inner and output dimensions grow proportionally. Starting from a small initialization of scale $\rho$, training goes through two phases:
 
@@ -150,7 +150,7 @@ The step-size checks reuse the configuration and the random seeds of the figure 
 @article{martin2026silent,
   title   = {Silent Alignment in Two-Layer Linear Networks: A High-Dimensional Perspective},
   author  = {Martin, Simon and Bach, Francis and Biroli, Giulio},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2610.29864},
   year    = {2026}
 }
 ```
